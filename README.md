@@ -46,5 +46,6 @@
 
 `Data Collection` `Spreadsheet` `Metadata` `SQL` `Data Ethics`
 
-
+# 📊 4. Process Data from Dirty to Clean
+### 
 
