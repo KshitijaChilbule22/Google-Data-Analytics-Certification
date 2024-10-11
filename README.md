@@ -47,5 +47,16 @@
 `Data Collection` `Spreadsheet` `Metadata` `SQL` `Data Ethics`
 
 # 📊 4. Process Data from Dirty to Clean
-### 
+### Grade Achieved: 90.86%
+[View Certificate: Process Data from Dirty to Clean](https://coursera.org/share/6e26d73dbb56c5bd082721df5e1532ae)
+
+### Key Learnings 🗝️
+✅ Understanding different types of data integrity and identifying risks to data integrity.
+
+✅ Applying basic SQL functions to clean string variables in a database.
+
+✅ Developing basic SQL queries to use on databases.
+
+✅ Describing the process of verifying data cleaning results.
+
 
