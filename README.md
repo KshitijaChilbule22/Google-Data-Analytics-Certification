@@ -60,3 +60,9 @@
 ✅ Describing the process of verifying data cleaning results.
 
 `Spreadsheet` `Data Integrity` `Sample Size Determination` `SQL`
+
+
+# 📊 5. Analyze Data to Answer Questions
+### Grade Achieved: 
+[View Certificate: Analyze Data to Answer Questions]()
+
