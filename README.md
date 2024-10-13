@@ -22,6 +22,6 @@
 [View Certificate: Process Data from Dirty to Clean](https://coursera.org/share/6e26d73dbb56c5bd082721df5e1532ae)
 
 # 📊 5. Analyze Data to Answer Questions
-### Grade Achieved: 
-[View Certificate: Analyze Data to Answer Questions]()
+### Grade Achieved: 88.65%
+[View Certificate: Analyze Data to Answer Questions](https://coursera.org/share/d28a0af5a58d85bc51e1e95594facd2c)
 
