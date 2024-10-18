@@ -25,3 +25,9 @@
 ### Grade Achieved: 88.65%
 [View Certificate: Analyze Data to Answer Questions](https://coursera.org/share/d28a0af5a58d85bc51e1e95594facd2c)
 
+# 📊 6. Share Data Through the Art of Visualization
+### Grade Achieved: 
+[View Certificate:  Share Data Through the Art of Visualization]()
+
+
+
